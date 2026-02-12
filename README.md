@@ -22,15 +22,17 @@ Delhi’s water bodies are degrading due to lack of continuous monitoring and de
 
 \## Tech Stack
 
-Frontend: HTML, CSS, JavaScript  
+Frontend: HTML, CSS, JavaScript
 
-Backend: Python (Flask)  
+Backend: Python (Flask)
 
-Database: MySQL  
+Database: MySQL
 
-Version Control: GitHub  
+Version Control: GitHub
 
-Project Management: Jira (Scrum)
+Project Management: Jira (Scrum) 
+
+Project initialized and configured by Disha Parakh.
 
 
 
