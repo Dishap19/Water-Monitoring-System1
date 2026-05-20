@@ -1,38 +1,22 @@
-\# Online Real-Time Survey and Monitoring of Water Bodies in Delhi
+\# JalDrishti — Delhi Water Monitoring System
 
 
 
-\## Problem Statement
-
-Delhi’s water bodies are degrading due to lack of continuous monitoring and delayed reporting.
+IoT-based academic prototype for real-time monitoring of water bodies in Delhi.
 
 
 
-\## Objectives
+\## Features
 
-\- Real-time monitoring
+\- Real-time dashboard
 
-\- Data storage
+\- Alert system
 
-\- Alert generation
+\- Sensor monitoring
 
-\- Dashboard visualization
+\- API integration
 
+\- Database support
 
-
-\## Tech Stack
-
-Frontend: HTML, CSS, JavaScript
-
-Backend: Python (Flask)
-
-Database: MySQL
-
-Version Control: GitHub
-
-Project Management: Jira (Scrum) 
-
-Project initialized and configured by Disha Parakh.
-
-
+\- CI/CD workflow
 
